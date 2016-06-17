@@ -45,10 +45,3 @@ var account = new BankAccount ();
 account.deposit(100);
 account.withdraw(50);
 account.printBalance();
-
-
-
-
-
-
-
